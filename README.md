@@ -1,20 +1,43 @@
 <div align="center">
 
-```
-██╗   ██╗ ██████╗ ██╗   ██╗███████╗███████╗███████╗███████╗
-╚██╗ ██╔╝██╔═══██╗██║   ██║██╔════╝██╔════╝██╔════╝██╔════╝
- ╚████╔╝ ██║   ██║██║   ██║███████╗███████╗█████╗  █████╗  
-  ╚██╔╝  ██║   ██║██║   ██║╚════██║╚════██║██╔══╝  ██╔══╝  
-   ██║   ╚██████╔╝╚██████╔╝███████║███████║███████╗██║     
-   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝     
-                                                            
-         █████╗ ███████╗██╗  ██╗ █████╗ ██████╗           
-        ██╔══██╗██╔════╝██║ ██╔╝██╔══██╗██╔══██╗          
-        ███████║███████╗█████╔╝ ███████║██████╔╝          
-        ██╔══██║╚════██║██╔═██╗ ██╔══██║██╔══██╗          
-        ██║  ██║███████║██║  ██╗██║  ██║██║  ██║          
-        ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝          
-```
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FF6B6B;stop-opacity:1">
+        <animate attributeName="stop-color" values="#FF6B6B;#4ECDC4;#45B7D1;#96CEB4;#FFEAA7;#FF6B6B" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" style="stop-color:#4ECDC4;stop-opacity:1">
+        <animate attributeName="stop-color" values="#4ECDC4;#45B7D1;#96CEB4;#FFEAA7;#FF6B6B;#4ECDC4" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" style="stop-color:#45B7D1;stop-opacity:1">
+        <animate attributeName="stop-color" values="#45B7D1;#96CEB4;#FFEAA7;#FF6B6B;#4ECDC4;#45B7D1" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    
+    <style>
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(-20px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes pulse {
+        0%, 100% { transform: scale(1); }
+        50% { transform: scale(1.05); }
+      }
+      .animated-text {
+        animation: fadeIn 1s ease-out, pulse 3s ease-in-out infinite;
+        transform-origin: center;
+      }
+    </style>
+  </defs>
+  
+  <text x="50%" y="45%" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="48" font-weight="bold" fill="url(#gradient1)" class="animated-text">
+    YOUSSEF
+  </text>
+  
+  <text x="50%" y="75%" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="48" font-weight="bold" fill="url(#gradient1)" class="animated-text">
+    ASKAR
+  </text>
+</svg>
 
 ### `SOFTWARE ENGINEER | BACKEND | DEVOPS`
 ### `Dubai, UAE 🇦🇪`
