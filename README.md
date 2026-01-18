@@ -19,12 +19,7 @@
 ### `SOFTWARE ENGINEER | BACKEND | DEVOPS`
 ### `Dubai, UAE 🇦🇪`
 
-```
-╔══════════════════════════════════════════════════════════╗
-║  > Loading profile...                          [████100%] ║
-║  > Status: Building scalable systems                      ║
-╚══════════════════════════════════════════════════════════╝
-```
+
 
 </div>
 
