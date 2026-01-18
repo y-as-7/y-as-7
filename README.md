@@ -88,16 +88,4 @@ EXP  Express
 
 </div>
 
----
 
-<div align="center">
-
-## `CONNECT`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-<img src="https://komarev.com/ghpvc/?username=y-as-7&color=00ff00&style=for-the-badge&label=VISITORS" />
-
-</div>
