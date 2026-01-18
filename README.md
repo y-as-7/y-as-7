@@ -64,7 +64,7 @@
 
 ## 📊 `GITHUB STATS`
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=y-as-7&show_icons=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=y-as-7&theme=chartreuse-dark&hide_border=true&background=000000&stroke=00FF00&ring=00FF00&fire=FF6B00&currStreakLabel=00FF00)
 
 </div>
