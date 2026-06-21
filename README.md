@@ -12,7 +12,7 @@
 ### ブラックヴォイドX
 
 ### `SOFTWARE ENGINEER | BACKEND | FRONTEND | DEVOPS`
-### `Dubai, UAE 🇦🇪`
+### `Mansoura, EGYPT`
 
 
 
