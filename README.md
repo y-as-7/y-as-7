@@ -12,7 +12,6 @@
 ### ブラックヴォイドX
 
 ### `SOFTWARE ENGINEER | BACKEND | FRONTEND | DEVOPS`
-### `Mansoura, EGYPT`
 
 
 
